@@ -1,8 +1,116 @@
-
-
 .wrapper {
-background-color: #ECECEC;
-}
- 
-<!-- -->
+    background-color: #ececec;
+  }
+  
+  /* Header styles */
+  
+  .logo_text {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    color: #2196f3;
+  }
+  
+  .logo_sub_title {
+    color: #000000;
+  }
+  
+  .nav_link {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #212121;
+  }
+  
+  .nav_link:hover {
+    color: #2196f3;
+    cursor: pointer;
+  }
+  
+  .contact_link {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #757575;
+  }
+  
+  .contact_link:hover {
+    color: #2196f3;
+    cursor: pointer;
+  }
 
+  .business {
+    background-color:#2f303a;
+  }
+
+  .business__title {
+    font-family: Roboto;
+    font-size: 44px;
+    color: #ffffff;
+  }
+
+  .business__button {
+    font-family: Roboto;
+    font-size: 16px;
+    width: 216px;
+    height: 50px;
+    background-color:#2196f3;
+    color: #ffffff;
+  }
+
+  .goal_title {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #212121;
+  }
+
+  .goal_text {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #757575; 
+  }
+
+  .works_title {
+    font-family: Roboto;
+    font-size: 36px;
+    color: #212121;
+  }
+
+  .our_team_title {
+    font-family: Roboto;
+    font-size: 36px;
+    color: #212121;
+  }  
+
+  .team_title {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #212121;
+  }
+
+  .team_text {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #757575
+  }
+
+ .footer {
+    background-color: #2F303A;
+    
+ }
+
+
+  .white {
+    color:#ffffff
+  }
+
+  .address_link {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #ffffff;
+  }
+
+
+
+
+  .
+
+  
